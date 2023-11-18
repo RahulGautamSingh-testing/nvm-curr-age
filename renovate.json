@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchCurrenAge": "> 1 years",
-      "enabled": false
+      "groupName": "old-is-gold"
     }
   ]
 }
