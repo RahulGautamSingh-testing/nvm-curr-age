@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "matchCurrenAge": "> 1 years",
+      "matchCurrentAge": "> 1 years",
       "groupName": "old-is-gold"
     }
   ]
