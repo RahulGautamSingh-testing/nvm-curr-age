@@ -4,5 +4,6 @@
       "matchCurrentAge": "> 1 years",
       "groupName": "old-is-gold"
     }
-  ]
+  ],
+  "prHourlyLimit": 10
 }
