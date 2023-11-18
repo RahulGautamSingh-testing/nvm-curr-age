@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "matchCurrenAge": "> 1 years",
+      "enabled": false
+    }
+  ]
+}
